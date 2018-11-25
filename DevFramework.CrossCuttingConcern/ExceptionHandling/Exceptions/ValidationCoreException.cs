@@ -1,6 +1,6 @@
 ﻿namespace DevFramework.CrossCuttingConcern.ExceptionHandling.Exceptions
 {
-    public class ValidationCoreException : ErrorNotificationException
+    public class ValidationCoreException :DangerNotificationException
     {
         public ValidationCoreException(string message) : base(message)
         {

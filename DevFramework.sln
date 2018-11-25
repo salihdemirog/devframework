@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework", "DevFramework\DevFramework.csproj", "{5FBAAD44-EB7A-4B49-BDD3-E434F9D9CF7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework.DataAccess", "DevFramework.DataAccess\DevFramework.DataAccess.csproj", "{9D8F07D1-1259-45FC-A865-7E3107FAA09C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework.DataAccess.EntityFramework", "DevFramework.DataAccess.EntityFramework\DevFramework.DataAccess.EntityFramework.csproj", "{7E6864C4-FE41-458A-B2B8-C80500C7693F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework.CrossCuttingConcern", "DevFramework.CrossCuttingConcern\DevFramework.CrossCuttingConcern.csproj", "{F4035C10-5F34-4094-B56F-7669768C3AD2}"
@@ -21,10 +19,6 @@ Global
 		{5FBAAD44-EB7A-4B49-BDD3-E434F9D9CF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FBAAD44-EB7A-4B49-BDD3-E434F9D9CF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FBAAD44-EB7A-4B49-BDD3-E434F9D9CF7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9D8F07D1-1259-45FC-A865-7E3107FAA09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D8F07D1-1259-45FC-A865-7E3107FAA09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D8F07D1-1259-45FC-A865-7E3107FAA09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D8F07D1-1259-45FC-A865-7E3107FAA09C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E6864C4-FE41-458A-B2B8-C80500C7693F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E6864C4-FE41-458A-B2B8-C80500C7693F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E6864C4-FE41-458A-B2B8-C80500C7693F}.Release|Any CPU.ActiveCfg = Release|Any CPU

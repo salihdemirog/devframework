@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://devframework.net</licenseUrl>
+    <projectUrl>http://devframework.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>devframework entityframework</tags>
+	<dependencies>
+		<dependency id="DevFramework" version="1.0.1" />
+		<dependency id="EntityFramework" version="6.1.3" />
+	</dependencies>
+  </metadata>
+</package>

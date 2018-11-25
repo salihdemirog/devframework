@@ -52,10 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DevFramework.DataAccess\DevFramework.DataAccess.csproj">
-      <Project>{9D8F07D1-1259-45FC-A865-7E3107FAA09C}</Project>
-      <Name>DevFramework.DataAccess</Name>
-    </ProjectReference>
     <ProjectReference Include="..\DevFramework\DevFramework.csproj">
       <Project>{5FBAAD44-EB7A-4B49-BDD3-E434F9D9CF7C}</Project>
       <Name>DevFramework</Name>

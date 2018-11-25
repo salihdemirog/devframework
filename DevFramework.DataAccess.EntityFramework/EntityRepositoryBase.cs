@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
-using DevFramework.Entity;
+using DevFramework.Entities;
 
 namespace DevFramework.DataAccess.EntityFramework
 {
